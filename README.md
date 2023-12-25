@@ -1,4 +1,4 @@
-SCREENSHOT
+APPLE WEBSITE
 
 
 ![Screenshot (32)](https://github.com/adarshchauhan021/Apple-Website/assets/90896097/cc998735-9fa3-4a4d-a741-cf0ef6c1e3a5)
